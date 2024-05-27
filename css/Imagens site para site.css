@@ -1,0 +1,74 @@
+body{
+background-image: url(./Icones/v1016-b-09.jpg) ;
+background-repeat: initial;
+background-position: unset;
+background-size: 100%;
+background-position: left -145px;
+background-position: right 550px;
+
+}
+
+    
+img{
+    margin-top: +20px;
+position: right;
+width: 50px;
+height: 50px;
+}
+
+.inst{
+img{
+    border-radius: 50%;
+}
+}
+.face{
+    img{
+        border-radius: 50%;
+    }
+}
+
+.gith{
+    img{
+        border-radius: 50%;
+       
+    }
+}
+
+
+
+.Icone {
+    position: absolute;
+    margin-left: 1500px; /* Ajuste conforme necessário para posicionar a imagem no lado direito */
+    top: 33%; /* Ajuste conforme necessário para posicionar a imagem verticalmente */
+    transform: translateY(-50%); /* Para centralizar verticalmente */
+}
+
+.Icone img {
+    width: 350px; 
+   border: 5px solid rgb(42, 114, 26);
+    height: 350px; 
+    border-radius: 50%;
+     transition: transform 0.5s; 
+}
+    .Icone img:hover {
+     transform: scale(1.1);
+      }
+ 
+
+.tele{
+
+    img{
+        border-radius: 50%;
+    }
+
+
+}
+
+ 
+ .yt{
+  img{
+    
+border-radius: 50%;
+    
+ }
+}

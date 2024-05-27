@@ -1,0 +1,221 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+h1 {
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    color: white;
+}
+
+
+.zap a {
+  text-decoration: none;
+  vertical-align: 80%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-size: larger;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+}
+
+.zap a:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-size: larger;
+  font-weight: bolder;
+  color: rgb(46, 184, 46);
+  text-decoration: underline;
+}
+
+
+  .inst a{
+
+    
+
+        vertical-align: 80%;
+        font-family:Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-size: larger;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+  }
+    .inst a:hover { 
+    
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-size: larger;
+        font-weight: bolder;
+        color: rgb(208, 47, 197);
+        text-decoration: underline;
+    }
+    
+
+  .face a{
+
+    
+    vertical-align: 80%;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: larger;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+  }
+
+  .face a:hover { 
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(0, 13, 255);
+    text-decoration: underline;
+}
+    
+
+    .gith a{
+
+      
+  
+          vertical-align: 80%;
+          font-family:Arial, Helvetica, sans-serif;
+          font-style: normal;
+          font-size: larger;
+          font-weight: bold;
+          color: rgb(255, 255, 255);
+          text-decoration: none;}
+  
+      .gith a:hover { 
+      
+          font-family: Arial, Helvetica, sans-serif;
+          font-style: italic;
+          font-size: larger;
+          font-weight: bolder;
+          color: rgb(31, 3, 101);
+          text-decoration: underline;
+      }
+      
+  
+  
+    
+
+    .yt a{
+      
+        vertical-align: 80%;
+        font-family:Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-size: larger;
+        font-weight: bold;
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+    
+    .yt a:hover { 
+    
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-size: larger;
+        font-weight: bolder;
+        color: rgb(255, 0, 0);
+        text-decoration: underline;
+
+    }
+  
+
+
+  .gpt a{
+
+    
+      vertical-align: 80%;
+      font-family:Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-size: larger;
+      font-weight: bold;
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+  }
+
+    .gpt a:hover{
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+      font-size: larger;
+      font-weight: bolder;
+      color: rgb(103, 0, 220);
+      text-decoration: underline;
+    }
+
+  
+
+
+  .google a{
+
+    
+      vertical-align: 80%;
+      font-family:Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-size: larger;
+      font-weight: bold;
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+  }
+
+    .google a:hover{
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+      font-size: larger;
+      font-weight: bolder;
+      color: rgb(148, 148, 148);
+      text-decoration: underline;
+    }
+
+    .Tele a{
+      vertical-align: 80%;
+      font-family:Arial, Helvetica, sans-serif;
+      font-style: normal;
+      font-size: larger;
+      font-weight: bold;
+      color: rgb(255, 255, 255);
+      text-decoration: none;
+  }
+
+    .Tele a:hover{
+      font-family: Arial, Helvetica, sans-serif;
+      font-style: italic;
+      font-size: larger;
+      font-weight: bolder;
+      color: rgb(0, 217, 255);
+      text-decoration: underline;
+    }
+
+
+
+
+
+
+
+
+  .info p{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    bottom: -150px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:  25px; 
+    font-weight: bolder;
+  }
+
+  footer{
+    font-family: "Poetsen One", sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 250px;
+    color: rgb(255, 247, 0);
+    font-variant: none;
+    border-bottom: 5px solid black;
+  
+  }
+
+
+

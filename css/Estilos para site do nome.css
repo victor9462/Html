@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    background-image: url(./Icones/Fundo.jpg);
+}
+
+.container {
+    width: 300px;
+    text-align: center;
+    margin: 190px auto;
+    background-color: #801d54fb;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0 0 5px rgb(186, 22, 22);
+    color: aqua;
+}
+
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+input[type="button"]:hover {
+    background-color: #0056b3;
+}
+
+a{
+    position: fixed;
+    top: 100px;
+
+}
